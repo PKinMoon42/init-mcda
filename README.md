@@ -11,6 +11,8 @@ It currently does the followings:
 ### Usage
 
 All you have to do is:
+- Clone this repo
+- Run `npm install`
 - Open `init.js` in the root folder
 - Set up the values of the following variables according to your needs
     - `apiUrl` - the URL that you use to access the backend 
